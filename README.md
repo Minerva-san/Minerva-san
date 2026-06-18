@@ -10,7 +10,7 @@
 
 # Hi, I'm Saniya 🌸
 
-**MCA Student · Full Stack Developer · Curious by Nature**
+**MCA Student · Full Stack Developer · AI/ML Enthusiast**
 
 *Building things, breaking things, learning everything.*
 
@@ -46,9 +46,9 @@ minerva = {
 ![HTML5](https://img.shields.io/badge/HTML5-%23f4bfd0?style=for-the-badge&logo=html5&logoColor=2b2026)
 ![CSS3](https://img.shields.io/badge/CSS3-%23f4bfd0?style=for-the-badge&logo=css&logoColor=2b2026)
 ![C++](https://img.shields.io/badge/C++-%23f4bfd0?style=for-the-badge&logo=cplusplus&logoColor=2b2026)
-![C#](https://img.shields.io/badge/C%23-%23f4bfd0?style=for-the-badge&logo=csharp&logoColor=2b2026")
+![C#](https://img.shields.io/badge/C%23-%23f4bfd0?style=for-the-badge&logo=csharp&logoColor=2b2026)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23f4bfd0?style=for-the-badge&logo=kotlin&logoColor=2b2026)
-![Bash](https://img.shields.io/badge/Bash-%23f4bfd0?style=for-the-badge&logo=bash&logoColor=2b2026)
+![Bash](https://img.shields.io/badge/Bash-%23f4bfd0?style=for-the-badge&logo=gnubash&logoColor=2b2026)
 
 
 **Frameworks & Libraries**
@@ -60,11 +60,12 @@ minerva = {
 ![Github Pages](https://img.shields.io/badge/Pages-%23d68aa3?style=for-the-badge&logo=github&logoColor=2b2026)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%23d68aa3?style=for-the-badge&logo=socket.io&logoColor=2b2026)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23d68aa3?style=for-the-badge&logo=dotnet&logoColor=2b2026)
-![Numpy](https://img.shields.io/badge/Numpy-%23d68aa3?style=for-the-badge&logo=numpy&logoColor=2b2026)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23d68aa3?style=for-the-badge&logo=matplotlib&logoColor=2b2026)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23d68aa3?style=for-the-badge&logo=fastapi&logoColor=2b2026)
 
 **Data & Databases**
 
+![Numpy](https://img.shields.io/badge/Numpy-%23d68aa3?style=for-the-badge&logo=numpy&logoColor=2b2026)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23d68aa3?style=for-the-badge&logo=matplotlib&logoColor=2b2026)
 ![Pandas](https://img.shields.io/badge/Pandas-%23f4bfd0?style=for-the-badge&logo=pandas&logoColor=2b2026)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23f4bfd0?style=for-the-badge&logo=mongodb&logoColor=2b2026)
 ![MySQL](https://img.shields.io/badge/MySQL-%23f4bfd0?style=for-the-badge&logo=mysql&logoColor=2b2026)
@@ -75,6 +76,7 @@ minerva = {
 
 **Tools**
 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%23d68aa3?style=for-the-badge&logo=android&logoColor=2b2026)
 ![Git](https://img.shields.io/badge/Git-%23d68aa3?style=for-the-badge&logo=git&logoColor=2b2026)
 ![GitHub](https://img.shields.io/badge/GitHub-%23d68aa3?style=for-the-badge&logo=github&logoColor=2b2026)
 ![Postman](https://img.shields.io/badge/Postman-%23d68aa3?style=for-the-badge&logo=postman&logoColor=2b2026)
@@ -84,6 +86,7 @@ minerva = {
 ![Canva](https://img.shields.io/badge/Canva-%23d68aa3?style=for-the-badge&logo=canva&logoColor=2b2026)
 ![Notion](https://img.shields.io/badge/Notion-%23d68aa3?style=for-the-badge&logo=notion&logoColor=2b2026)
 ![Render](https://img.shields.io/badge/Render-%23d68aa3?style=for-the-badge&logo=render&logoColor=2b2026)
+![Blender](https://img.shields.io/badge/Blender-%23d68aa3?style=for-the-badge&logo=blender&logoColor=2b2026)
 
 </div>
 
@@ -144,16 +147,18 @@ minerva = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🗺️ Personalized Travel Recommendation</h3>
+      <h3 align="center">📚 RAG Assistant</h3>
       <p align="center">
-        A recommendation system that suggests travel destinations tailored to user preferences — built with Python and data-driven logic.
+        A multi-level Retrieval-Augmented Generation assistant that lets you query your own documents — built with a FastAPI backend, ChromaDB vector store, and a dark-themed chat UI.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-%23f4bfd0?style=flat-square&logo=python&logoColor=2b2026"/>
-        <img src="https://img.shields.io/badge/Recommendation%20System-%23d68aa3?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-%23d68aa3?style=flat-square&logo=fastapi&logoColor=2b2026"/>
+        <img src="https://img.shields.io/badge/ChromaDB-%23f4bfd0?style=flat-square"/>
+        <img src="https://img.shields.io/badge/RAG-%23d68aa3?style=flat-square"/>
       </p>
       <p align="center">
-        <a href="https://github.com/Minerva-san/personalized-travel-recommendation"><img src="https://img.shields.io/badge/Repo-%23f4bfd0?style=for-the-badge&logo=github&logoColor=2b2026"/></a>
+        <a href="https://github.com/Minerva-san/RAG-Assistant"><img src="https://img.shields.io/badge/Repo-%23f4bfd0?style=for-the-badge&logo=github&logoColor=2b2026"/></a>
       </p>
     </td>
   </tr>
