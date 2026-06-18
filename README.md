@@ -4,9 +4,9 @@
 
 <div align="center">
 
-```
+<pre>
 ✦  h e l l o ,  w o r l d ! ✦
-```
+</pre>
 
 # Hi, I'm Saniya 🌸
 
