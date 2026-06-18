@@ -5,7 +5,7 @@
 <div align="center">
 
 ```
-✦  h e l l o ,  w o r l d  ✦
+✦  h e l l o ,  w o r l d ! ✦
 ```
 
 # Hi, I'm Saniya 🌸
