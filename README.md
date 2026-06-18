@@ -39,28 +39,39 @@ minerva = {
 
 ### 🛠️ Skills & Tools
 
-**Languages**
+**Programming**
 
-![Java](https://img.shields.io/badge/Java-%23f4bfd0?style=for-the-badge&logo=openjdk&logoColor=2b2026)
 ![Python](https://img.shields.io/badge/Python-%23f4bfd0?style=for-the-badge&logo=python&logoColor=2b2026)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23f4bfd0?style=for-the-badge&logo=javascript&logoColor=2b2026)
-![C++](https://img.shields.io/badge/C++-%23f4bfd0?style=for-the-badge&logo=cplusplus&logoColor=2b2026)
 ![HTML5](https://img.shields.io/badge/HTML5-%23f4bfd0?style=for-the-badge&logo=html5&logoColor=2b2026)
-![CSS3](https://img.shields.io/badge/CSS3-%23f4bfd0?style=for-the-badge&logo=css3&logoColor=2b2026)
+![CSS3](https://img.shields.io/badge/CSS3-%23f4bfd0?style=for-the-badge&logo=css&logoColor=2b2026)
+![C++](https://img.shields.io/badge/C++-%23f4bfd0?style=for-the-badge&logo=cplusplus&logoColor=2b2026)
+![C#](https://img.shields.io/badge/C%23-%23f4bfd0?style=for-the-badge&logo=csharp&logoColor=2b2026")
+![Kotlin](https://img.shields.io/badge/Kotlin-%23f4bfd0?style=for-the-badge&logo=kotlin&logoColor=2b2026)
+![Bash](https://img.shields.io/badge/Bash-%23f4bfd0?style=for-the-badge&logo=bash&logoColor=2b2026)
+
 
 **Frameworks & Libraries**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%23d68aa3?style=for-the-badge&logo=mongodb&logoColor=2b2026)
 ![Express.js](https://img.shields.io/badge/Express.js-%23d68aa3?style=for-the-badge&logo=express&logoColor=2b2026)
 ![React.js](https://img.shields.io/badge/React.js-%23d68aa3?style=for-the-badge&logo=react&logoColor=2b2026)
 ![Node.js](https://img.shields.io/badge/Node.js-%23d68aa3?style=for-the-badge&logo=node.js&logoColor=2b2026)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%23d68aa3?style=for-the-badge&logo=tailwindcss&logoColor=2b2026)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23d68aa3?style=for-the-badge&logo=bootstrap&logoColor=2b2026)
+![Github Pages](https://img.shields.io/badge/Pages-%23d68aa3?style=for-the-badge&logo=github&logoColor=2b2026)
+![Socket.io](https://img.shields.io/badge/Socket.io-%23d68aa3?style=for-the-badge&logo=socket.io&logoColor=2b2026)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%23d68aa3?style=for-the-badge&logo=dotnet&logoColor=2b2026)
+![Numpy](https://img.shields.io/badge/Numpy-%23d68aa3?style=for-the-badge&logo=numpy&logoColor=2b2026)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23d68aa3?style=for-the-badge&logo=matplotlib&logoColor=2b2026)
 
-**Databases & Cloud**
+**Data & Databases**
 
+![Pandas](https://img.shields.io/badge/Pandas-%23f4bfd0?style=for-the-badge&logo=pandas&logoColor=2b2026)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23f4bfd0?style=for-the-badge&logo=mongodb&logoColor=2b2026)
 ![MySQL](https://img.shields.io/badge/MySQL-%23f4bfd0?style=for-the-badge&logo=mysql&logoColor=2b2026)
 ![Firebase](https://img.shields.io/badge/Firebase-%23f4bfd0?style=for-the-badge&logo=firebase&logoColor=2b2026)
+![Docker](https://img.shields.io/badge/Docker-%23f4bfd0?style=for-the-badge&logo=docker&logoColor=2b2026)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-%23f4bfd0?style=for-the-badge&logo=dotnet&logoColor=2b2026)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%23f4bfd0?style=for-the-badge&logo=cloudinary&logoColor=2b2026)
 
 **Tools**
 
@@ -72,6 +83,7 @@ minerva = {
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23d68aa3?style=for-the-badge&logo=powerbi&logoColor=2b2026)
 ![Canva](https://img.shields.io/badge/Canva-%23d68aa3?style=for-the-badge&logo=canva&logoColor=2b2026)
 ![Notion](https://img.shields.io/badge/Notion-%23d68aa3?style=for-the-badge&logo=notion&logoColor=2b2026)
+![Render](https://img.shields.io/badge/Render-%23d68aa3?style=for-the-badge&logo=render&logoColor=2b2026)
 
 </div>
 
@@ -153,8 +165,9 @@ minerva = {
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Minerva-san&hide_border=true&background=2b2026&ring=d68aa3&fire=f4bfd0&currStreakLabel=f4bfd0&sideLabels=d68aa3&dates=c7a8b4&currStreakNum=f7dfe7&sideNums=f7dfe7)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Minerva-san&hide_border=true&background=2b2026&ring=d68aa3&fire=f4bfd0&currStreakLabel=f4bfd0&sideLabels=d68aa3&dates=c7a8b4&currStreakNum=f7dfe7&sideNums=f7dfe7&border_radius=12)
+![Minerva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minerva-san&show_icons=true&hide_border=true&bg_color=2b2026&title_color=f4bfd0&icon_color=d68aa3&text_color=f7dfe7&ring_color=d68aa3&border_radius=12)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minerva-san&layout=compact&hide_border=true&bg_color=2b2026&title_color=f4bfd0&text_color=f7dfe7&langs_count=8&border_radius=12)
 </div>
 
 ---
